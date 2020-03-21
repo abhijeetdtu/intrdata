@@ -1,1 +1,3 @@
 intrdenv
+__pycache__
+*.pyc
