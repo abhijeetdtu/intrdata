@@ -3,7 +3,7 @@
 * This tool allows to quickly create 2d datasets for trying different models
 * The datasets are returned in form of Pandas Dataframe
 
-![image](https://user-images.githubusercontent.com/6872080/77237182-4e3e5700-6b9c-11ea-97f1-70da935535c7.png)
+<img src="https://user-images.githubusercontent.com/6872080/77237182-4e3e5700-6b9c-11ea-97f1-70da935535c7.png"  height="250x"/>
 
 * Installation
 
